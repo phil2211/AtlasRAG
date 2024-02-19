@@ -1,0 +1,146 @@
+{
+    "title": "report",
+    "properties": {
+        "Actor": {
+            "bsonType": "string"
+        },
+        "Archived": {
+            "bsonType": "string"
+        },
+        "Authors": {
+            "bsonType": "string"
+        },
+        "Background": {
+            "bsonType": "string"
+        },
+        "Background_en": {
+            "bsonType": "string"
+        },
+        "Banking Trend": {
+            "bsonType": "string"
+        },
+        "Client Segment": {
+            "bsonType": "string"
+        },
+        "Consequences": {
+            "bsonType": "string"
+        },
+        "Consequences_en": {
+            "bsonType": "string"
+        },
+        "Created At": {
+            "bsonType": "date"
+        },
+        "Created By": {
+            "bsonType": "string"
+        },
+        "Edited At": {
+            "bsonType": "date"
+        },
+        "ID": {
+            "bsonType": "int"
+        },
+        "Impact": {
+            "bsonType": "string"
+        },
+        "Impact_en": {
+            "bsonType": "string"
+        },
+        "Innovation": {
+            "bsonType": "string"
+        },
+        "Link": {
+            "bsonType": "string"
+        },
+        "Players": {
+            "bsonType": "string"
+        },
+        "Profile Image": {
+            "bsonType": "string"
+        },
+        "Publication Status": {
+            "bsonType": "string"
+        },
+        "Rating: Brand perception": {
+            "bsonType": "string"
+        },
+        "Rating: Brand perception (Decimal)": {
+            "bsonType": "int"
+        },
+        "Rating: Customer Focus": {
+            "bsonType": "string"
+        },
+        "Rating: Customer Focus (Decimal)": {
+            "bsonType": "int"
+        },
+        "Rating: Revenue Potential": {
+            "bsonType": "string"
+        },
+        "Rating: Revenue Potential (Decimal)": {
+            "bsonType": "int"
+        },
+        "Rating: Savings Potential": {
+            "bsonType": "string"
+        },
+        "Rating: Savings Potential (Decimal)": {
+            "bsonType": "int"
+        },
+        "References": {
+            "bsonType": "string"
+        },
+        "Region": {
+            "bsonType": "string"
+        },
+        "Relation: Banking Trend": {
+            "bsonType": "string"
+        },
+        "Relation: Innovation": {
+            "bsonType": "string"
+        },
+        "Relation: My Workspace": {
+            "bsonType": "string"
+        },
+        "Relation: Player": {
+            "bsonType": "string"
+        },
+        "Relation: Signal": {
+            "bsonType": "string"
+        },
+        "Relevant for*": {
+            "bsonType": "string"
+        },
+        "Report": {
+            "bsonType": "string"
+        },
+        "Report_en": {
+            "bsonType": "string"
+        },
+        "Research Type": {
+            "bsonType": "string"
+        },
+        "Service/product lines": {
+            "bsonType": "string"
+        },
+        "Summary": {
+            "bsonType": "string"
+        },
+        "Tags": {
+            "bsonType": "string"
+        },
+        "Title": {
+            "bsonType": "string"
+        },
+        "_id": {
+            "bsonType": "objectId"
+        },
+        "embedding": {
+            "bsonType": "array",
+            "items": {
+                "bsonType": "double"
+            }
+        }
+    },
+    "required": [
+        "_id"
+    ]
+}

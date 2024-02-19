@@ -1,0 +1,15 @@
+{
+    "collectionName": "reports",
+    "database": "reports",
+    "name": "default",
+    "mappings": {
+      "dynamic": true,
+      "fields": {
+        "embedding": {
+          "dimensions": 1536,
+          "similarity": "cosine",
+          "type": "knnVector"
+        }
+      }
+    }
+  }

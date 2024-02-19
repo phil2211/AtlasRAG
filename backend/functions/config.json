@@ -1,0 +1,21 @@
+[
+    {
+        "name": "html_strip",
+        "private": true
+    },
+    {
+        "name": "getEmbedding",
+        "private": false,
+        "disable_arg_logs": true
+    },
+    {
+        "name": "askQuestion",
+        "private": false,
+        "disable_arg_logs": true
+    },
+    {
+        "name": "getResponse",
+        "private": false,
+        "disable_arg_logs": true
+    }
+]
